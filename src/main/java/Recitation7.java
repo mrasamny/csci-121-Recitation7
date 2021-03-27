@@ -1,6 +1,6 @@
 /**
- * SkillBuilder6 is a class for completing the Skill
- * Builder 6 assignment in Java.
+ * Recitation7 is a class for completing
+ *  Reciation 7 in Java.
  *
  * @author <You>
  * @version 1.0
