@@ -6,7 +6,7 @@
  * @version 1.0
  */
 
-public class SkillBuilder7
+public class Recitation7
 {
     // define your constants after this comment
 

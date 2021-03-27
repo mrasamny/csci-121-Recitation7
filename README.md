@@ -3,7 +3,7 @@
 This Skill Builder will require you to write several functions in which loops will be the focus.  In addition, 
 some of these function will require you to design and implement finite state machines.  So, let's get started!
 
-The class called SkillBuilder7 with a set of skeleton methods provided.  The 
+The class called Recitation7 with a set of skeleton methods provided.  The 
 requirements for each method is provided below.
 
 ## Left Triangle
@@ -17,7 +17,7 @@ that returns a string consisting of asterisks in a left-right triangle pattern w
 invoked as follows:
 
 ```java
-SkillBuilder7.leftRightTriangle(5);
+Recitation7.leftRightTriangle(5);
 ```
 the result is a string that is equivalent to the following:
 
@@ -88,7 +88,7 @@ the result is a string that is equivalent to the following:
 If printed,
 
 ```java
-System.out.println(skillBuilder7.rightRightTriangle(5));
+System.out.println(recitation7.rightRightTriangle(5));
 ```
 
 The result is:
@@ -104,7 +104,7 @@ The result is:
 Invoking the method with a different argument,
 
 ```java
-skillBuilder7.rightRightTriangle(3)
+recitation7.rightRightTriangle(3)
 ```
 
 results in,
@@ -116,7 +116,7 @@ results in,
 and if printed,
 
 ```java
-System.out.println(skillBuilder7.rightRightTriangle(3));
+System.out.println(recitation7.rightRightTriangle(3));
 ```
 
 results in
@@ -135,7 +135,7 @@ public static String circle(int radius)
 That returns a string of asterisks representing a circle pattern with a radius, <span style="font-family: 'courier new', courier;font-weight:bold;">radius</span>.  When the method is invoked as follows:
 
 ```java
-skillBuilder7.circle(5)
+recitation7.circle(5)
 ```
 
 the result is a string as follows,
@@ -147,7 +147,7 @@ the result is a string as follows,
 If printed,
 
 ```java
-System.out.println(skillBuilder7.circle(5))
+System.out.println(recitation7.circle(5))
 ```
 
 the result is,
@@ -165,7 +165,7 @@ the result is,
 Invoking the method with a different argument, 
 
 ```java
-skillBuilder7.circle(8)
+recitation7.circle(8)
 ```
 
 the result is a string as follows,
@@ -177,7 +177,7 @@ the result is a string as follows,
 If printed,
 
 ```java
-System.out.println(skillBuilder7.circle(8))
+System.out.println(recitation7.circle(8))
 ```
 the result is,
 <pre style="font-family: 'courier new', courier;background-color:#f5f5f5;padding:5px 10px 5px 0px;border:solid 1px #dddddd;">
