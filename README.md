@@ -1,6 +1,6 @@
 # Recitation 7 - Loopy Loops
 
-This Skill Builder will require you to write several functions in which loops will be the focus.  In addition, 
+This recitation will require you to write several functions in which loops will be the focus.  In addition, 
 some of these function will require you to design and implement finite state machines.  So, let's get started!
 
 The class called Recitation7 with a set of skeleton methods provided.  The 
@@ -8,7 +8,7 @@ requirements for each method is provided below.
 
 ## Left Triangle
 
-In the template below, SkillBuilder6 has a method with the following signature:
+In the template below, Recitation7 has a method with the following signature:
 <p style="font-family: 'courier new', courier;background-color:#f5f5f5;padding:10px 10px 10px 10px;border:solid 1px #dddddd;color:blue;font-weight:bold;">
 public static String leftRightTriangle(int height)
 <p>
@@ -28,7 +28,7 @@ the result is a string that is equivalent to the following:
 If printed,
 
 ```java
-System.out.println(SkillBuilder6.leftRightTriangle(5));
+System.out.println(Recitation7.leftRightTriangle(5));
 ```
 
 The result is:
@@ -44,7 +44,7 @@ The result is:
 Invoking the method with a different argument,
 
 ```java
-SkillBuilder6.leftRightTriangle(3)
+Recitation7.leftRightTriangle(3)
 ```
 
 results in,
@@ -56,7 +56,7 @@ results in,
 and if printed,
 
 ```
-System.out.println(SkillBuilder6.leftRightTriangle(3));
+System.out.println(Recitation7.leftRightTriangle(3));
 ```
 
 results in,
